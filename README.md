@@ -24,4 +24,4 @@ export GITHUB_TOKEN=your_token
 python app.py
 
 ## Built By
-Zahid Mohammed | Made for JTP Placement 2026
+Zahid Mohammed 
